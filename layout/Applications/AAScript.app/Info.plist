@@ -1,0 +1,27 @@
+{
+    CFBundleExecutable = "AAScript";
+    CFBundleIconFile = Icon.png;
+    CFBundleIconFiles = (
+            "Icon.png",
+            "Icon-72.png",
+            "Icon-72@2x.png",
+            "Icon@2x.png",
+            "Icon-Small.png",
+            "Icon-Small@2x.png"
+    );
+    CFBundleIdentifier = "jp.r-plus.aascript";
+    CFBundleInfoDictionaryVersion = 6.0;
+    CFBundlePackageType = APPL;
+    CFBundleSignature = "????";
+    UIDeviceFamily = (1,2);
+    UIApplicationExitsOnSuspend = 1;
+    CFBundleSupportedPlatforms = (
+	iPhoneOS
+    );
+    CFBundleVersion = 1.0;
+    DTPlatformName = iphoneos;
+    DTSDKName = iphoneos3.0;
+    LSRequiresIPhoneOS = 1;
+    MinimumOSVersion = 3.0;
+    SBAppTags = ( "hidden" );
+}
