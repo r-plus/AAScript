@@ -1,6 +1,6 @@
 ARCHS = armv7 arm64
 
-include ../theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 APPLICATION_NAME = AAScript
 AAScript_FILES = main.c
